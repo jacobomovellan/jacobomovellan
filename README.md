@@ -9,6 +9,9 @@ Estudiante de segundo curso de DAM, especializado en Java, con conocimientos en 
 
 🛠️ Tecnologías y Herramientas
 
+- Java, Python
+- MySQL, PostgresSQL, MongoDB
+
 
 📂 Mis proyectos
 
