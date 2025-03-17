@@ -19,6 +19,4 @@ Estudiante de segundo curso de DAM, especializado en Java, con conocimientos en 
 
 📊 GitHub Stats
 
-- (https://github-readme-stats.vercel.app/api/top-langs/?username=jacobomovellan&layout=compact)
-
 
