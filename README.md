@@ -2,6 +2,7 @@ Jacobo Anteneh Sánchez de Movellán Formoso
 
 Técnico Superior Desarrollo de Aplicaciones Multiplataforma
 Cursado en IES Liceo La Paz, La Coruña
+Actualmente estudiando Ing. Informática
 Especializado en Java, con conocimientos en Python, MySQL y MongoDB. Apasionado por la informática con ganas de mejorar
 
 🙋 Sobre mí
